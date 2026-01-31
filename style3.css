@@ -9,6 +9,12 @@
     object-fit: cover;
 }
 
+h1 {
+    margin-left: 70px;
+    padding-top: 50px;
+
+}
+
 .conteiner {
     width: 1300px;
     margin: 50px auto;
